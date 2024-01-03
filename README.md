@@ -4,6 +4,8 @@
 
 Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to create innovative digital solutions. Join me on my journey as I transform ideas into impactful projects that blend technology with creativity.
 
+[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+
 ### 🌐 Portfolio Highlights
 
 #### Resource Locator for Food Banks and Shelters
