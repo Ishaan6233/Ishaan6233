@@ -1,4 +1,4 @@
-# Ishaan Meena - Crafting Digital Solutions 🚀
+# Ishaan Meena
 
 **Computer Science BSc Student | Developer | Innovator**
 
