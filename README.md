@@ -4,8 +4,6 @@
 
 Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to create innovative digital solutions. Join me on my journey as I transform ideas into impactful projects that blend technology with creativity.
 
-[![bap's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
-
 ### 🚀 Skills and Technologies
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
