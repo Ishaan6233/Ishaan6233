@@ -51,10 +51,6 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="Kivy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kivy/kivy-original.svg" />
 
-### 🎥 [YouTube Channel - ForrestKnight][youtube]
-
-Explore my coding journey, from being a curious computer science student to landing a full-stack software engineering job. Watch as I navigate the realms of code, Unix, Linux, and theory, all while teaching myself iOS development and realizing my dream of building impactful applications.
-
 ### 👨‍💻 About My Coding Journey
 
 I embarked on my coding journey as a naive computer science student with a thirst for knowledge. From learning everything about the programming world to self-teaching iOS development, my journey evolved into a passion for excelling in Java. This desire led me to a fulfilling career in full-stack software engineering upon graduation.
