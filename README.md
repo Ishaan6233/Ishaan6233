@@ -22,7 +22,10 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="Kivy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kivy/kivy-original.svg" />
 
-### 🌐 Project Highlights
+
+
+
+## 🌐 Project Highlights
 
 #### Resource Locator for Food Banks and Shelters
 *University of Alberta – Edmonton, Alberta, Canada (May 2023)*
