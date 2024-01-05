@@ -21,7 +21,7 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Kivy" width="30px" style="padding-right:10px;" src="https://innovationyourself.com/wp-content/uploads/2021/01/kivy.png" />
 
 
-** 🌐 Project Highlights **
+## 🌐 Project Highlights ##
 
 #### Resource Locator for Food Banks and Shelters ###
 *University of Alberta – Edmonton, Alberta, Canada (May 2023)*
