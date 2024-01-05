@@ -24,10 +24,10 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 
 
 
-## 🌐 Project Highlights
+## 🌐 Project Highlights ##
 
 #### Resource Locator for Food Banks and Shelters
-*University of Alberta – Edmonton, Alberta, Canada (May 2023)*
+#University of Alberta – Edmonton, Alberta, Canada (May 2023)#
 
 - 🌍 Developed an advanced resource locator for seamless discovery of nearby food banks and shelters.
 - 🛠 Implemented a robust backend algorithm generating comprehensive facility lists with detailed resource information.
