@@ -4,16 +4,15 @@
 
 Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to create innovative digital solutions. Join me on my journey as I transform ideas into impactful projects that blend technology with creativity.
 
-### 🚀 Skills and Technologies
+### 🚀 Skills and Technologies ###
+
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Data Science" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datascience/datascience-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="MS Office" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="R Commander" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="" />
