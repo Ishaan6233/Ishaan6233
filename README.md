@@ -23,7 +23,7 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 
 ## 🌐 Project Highlights ##
 
-#### Resource Locator for Food Banks and Shelters ###
+#### Resource Locator for Food Banks and Shelters ####
 *University of Alberta – Edmonton, Alberta, Canada (May 2023)*
 
 - 🌍 Developed an advanced resource locator for seamless discovery of nearby food banks and shelters.
@@ -31,20 +31,20 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 - 🌐 Web-scraped real-time data for enhanced reliability.
 - 🗺 Presented essential details on an interactive map, empowering users to make informed decisions efficiently.
 
-#### Data Acquisition, Analysis, and Visualization Project ###
+#### Data Acquisition, Analysis, and Visualization Project ####
 *University of Alberta – Edmonton, Alberta, Canada (Oct 2022)*
 
 - 🐍 Utilized Python, Pandas, and NumPy for web scraping and data processing.
 - 📊 Translated gathered data into informative graphs, in-depth reports, and data-driven deductions.
 - 👟 Unleashed the power of data science to analyze the iconic Nike Air Jordan 1s.
 
-#### Dynamic Android Game IT Intern ###
+#### Dynamic Android Game IT Intern ####
 *Curtin University – Dubai, UAE (Jul 2021 to Sep 2021)*
 
 - 🎮 Crafted a captivating Android-based game using Kivy and Python.
 - 🧠 Engineered a dynamic dice-rolling gaming experience with interactive gameplay against Computer AI adversaries.
 
-#### Finequo: Pioneering Image-Driven Health Gamification ###
+#### Finequo: Pioneering Image-Driven Health Gamification ####
 *Gems-X Innovation Challenge 2019 – Dubai, UAE (Dec 2019 to May 2020)*
 
 - 🏆 Created Finequo, an authentication-enabled app using image recognition to promote healthy habits.
