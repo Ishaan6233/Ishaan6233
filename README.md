@@ -4,7 +4,7 @@
 
 Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to create innovative digital solutions. Join me on my journey as I transform ideas into impactful projects that blend technology with creativity.
 
-### 🚀 Skills and Technologies ###
+** 🚀 Skills and Technologies **
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -12,12 +12,12 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://learnopencv.com/wp-content/uploads/2021/05/NumPy_logo_2020-768x346.png" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://www.ecured.cu/images/a/a8/Pandas_python.png" />
-<img align="left" alt="R Commander" width="30px" style="padding-right:10px;" src="https://i1.wp.com/vivaelsoftwarelibre.com/wp-content/uploads/2016/11/R-Commander.png?fit=817%2C312&ssl=1" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img1.pnghut.com/11/19/23/Qwx0p7hsBv/oracle-database-purple-microsoft-sql-server-c-query-language.jpg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://www.liblogo.com/img-logo/mo429m311-mongodb-logo-mongodb-logo-.png"/>
-<img align="left" alt="Ruby" width="50px" style="padding-right:10px;" src="https://img.favpng.com/10/3/21/ruby-programming-language-logo-java-png-favpng-JUa7Fs1Jyu3Y493PUXpRmY5KB.jpg" />
+<img align="left" alt="R Commander" width="40px" style="padding-right:10px;" src="https://i1.wp.com/vivaelsoftwarelibre.com/wp-content/uploads/2016/11/R-Commander.png?fit=817%2C312&ssl=1" />
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://img1.pnghut.com/11/19/23/Qwx0p7hsBv/oracle-database-purple-microsoft-sql-server-c-query-language.jpg" />
+<img align="left" alt="Matplotlib" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />
+<img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://www.liblogo.com/img-logo/mo429m311-mongodb-logo-mongodb-logo-.png"/>
+<img align="left" alt="Ruby" width="40px" style="padding-right:10px;" src="https://img.favpng.com/10/3/21/ruby-programming-language-logo-java-png-favpng-JUa7Fs1Jyu3Y493PUXpRmY5KB.jpg" />
 <img align="left" alt="Kivy" width="30px" style="padding-right:10px;" src="https://innovationyourself.com/wp-content/uploads/2021/01/kivy.png" />
 
 
