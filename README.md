@@ -20,7 +20,7 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://img.favpng.com/10/3/21/ruby-programming-language-logo-java-png-favpng-JUa7Fs1Jyu3Y493PUXpRmY5KB.jpg" />
 <img align="left" alt="Kivy" width="30px" style="padding-right:10px;" src="https://innovationyourself.com/wp-content/uploads/2021/01/kivy.png" />
 
-
+## ##
 ## 🌐 Project Highlights ##
 
 #### Resource Locator for Food Banks and Shelters ####
