@@ -14,7 +14,7 @@ Hey there! I'm Ishaan Meena, a computer science enthusiast on a mission to creat
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="R Commander" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img1.pnghut.com/11/19/23/Qwx0p7hsBv/oracle-database-purple-microsoft-sql-server-c-query-language.jpg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="" />
